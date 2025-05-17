@@ -80,9 +80,11 @@ pip install pillow
 
 查看以下演示GIF，了解工具的基本功能和使用流程：
 
-![整理精灵演示](file_organizer_small.gif)
+![整理精灵演示](file_organizer_tiny.gif)
 
-完整演示视频可在本地查看`整理精灵.mp4`，包含以下内容：
+完整演示视频：
+![整理精灵演示](https://www.bilibili.com/video/BV1raJPz1E6s/?spm_id_from=333.1387.homepage.video_card.click)
+包含以下内容：
 - 工具界面详细介绍
 - 文件整理过程完整演示
 - 文件还原功能操作演示
