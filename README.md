@@ -83,7 +83,7 @@ pip install pillow
 ![整理精灵演示](file_organizer_tiny.gif)
 
 完整演示视频：
-![整理精灵演示](https://www.bilibili.com/video/BV1raJPz1E6s/?spm_id_from=333.1387.homepage.video_card.click)
+[整理精灵完整演示](https://www.bilibili.com/video/BV1raJPz1E6s/?spm_id_from=333.1387.homepage.video_card.click)
 
 包含以下内容：
 - 工具界面详细介绍
