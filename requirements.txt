@@ -1,0 +1,44 @@
+# 文件自动整理工具依赖项
+# 使用方法: pip install -r requirements.txt
+
+# 必要依赖
+# =============================
+
+# 拖放支持库 - 用于文件夹拖放功能
+# 如果缺少此依赖，程序仍能运行但没有拖放功能
+tkinterdnd2>=0.3.0
+
+# 图像处理库 - 用于处理和显示应用图标# 如果缺少此依赖，程序仍能运行但使用默认图标Pillow>=9.0.0# SVG转换支持 - 用于将SVG图标转换为PNG# 如果缺少此依赖，程序会使用备用图标cairosvg>=2.5.0
+
+# 虚拟环境安装示例
+# =============================
+# python -m venv file_organizer_env
+# file_organizer_env\Scripts\activate (Windows)
+# source file_organizer_env/bin/activate (Linux/Mac)
+# pip install -r requirements.txt
+
+# 兼容性说明
+# =============================
+# Python版本: 建议使用Python 3.6或更高版本
+# 操作系统: 兼容Windows, macOS, Linux
+
+# 标准库依赖分析(无需额外安装)
+# =============================
+# os           - 用于文件系统操作、路径处理
+# shutil       - 用于文件移动操作
+# datetime     - 用于生成时间戳和处理日期
+# time         - 用于延时操作
+# json         - 用于整理历史记录的存储和读取
+# pathlib      - 用于面向对象的文件路径处理
+# tkinter      - 用于创建图形用户界面
+# threading    - 用于多线程操作，使界面在整理文件时保持响应
+
+# 可选功能依赖关系
+# =============================
+# 拖放支持: tkinterdnd2
+# 自定义图标: Pillow
+# 图形界面: tkinter (内置)
+
+# 备注:
+# - tkinter库是Python标准库的一部分，通常不需要单独安装
+# - 其他功能使用的都是Python标准库，如os, shutil, datetime, json, threading等 
