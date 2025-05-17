@@ -84,6 +84,7 @@ pip install pillow
 
 完整演示视频：
 ![整理精灵演示](https://www.bilibili.com/video/BV1raJPz1E6s/?spm_id_from=333.1387.homepage.video_card.click)
+
 包含以下内容：
 - 工具界面详细介绍
 - 文件整理过程完整演示
